@@ -1,3 +1,4 @@
+
 '''Given the position of a Bishop (A, B) on an 8 * 8 chessboard.
 
 Your task is to count the total number of squares that can be visited by the Bishop in one move.

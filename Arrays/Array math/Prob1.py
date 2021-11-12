@@ -6,7 +6,8 @@ Find and return this maximum possible sum.
 
 NOTE: Suppose B = 4 and array A contains 10 elements then
 
-You can pick first four elements or can pick last four elements or can pick 1 from front and 3 from back etc . you need to return the maximum possible sum of elements you can pick.'''
+You can pick first four elements or can pick last four elements or can pick 1 from front and 3 from back etc . you need to return the maximum 
+possible sum of elements you can pick.'''
 
 class Solution:
     # @param A : list of integers

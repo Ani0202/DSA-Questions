@@ -1,4 +1,5 @@
-'''Given an array of integers A, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence such that
+'''Given an array of integers A, sort the array into a wave like array and return it, In other words, arrange the elements into a sequence 
+such that
 
 a1 >= a2 <= a3 >= a4 <= a5.....
 NOTE : If there are multiple answers possible, return the one that's lexicographically smallest.'''

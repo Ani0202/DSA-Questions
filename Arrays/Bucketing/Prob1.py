@@ -18,7 +18,8 @@ Hence, the output is 1.
 
 O(n) solution is expected.
 
-Note: You can assume the numbers in strings don’t overflow the primitive data type and there are no leading zeroes in numbers. Extra memory usage is allowed'''
+Note: You can assume the numbers in strings don’t overflow the primitive data type and there are no leading zeroes in numbers. Extra memory 
+usage is allowed'''
 
 class Solution:
     # @param A : list of strings

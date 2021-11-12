@@ -1,4 +1,5 @@
-'''Given a 2D integer matrix A of size N x N find a B x B submatrix where B<= N and B>= 1, such that sum of all the elements in submatrix is maximum.'''
+'''Given a 2D integer matrix A of size N x N find a B x B submatrix where B<= N and B>= 1, such that sum of all the elements in submatrix 
+is maximum.'''
 
 class Solution:
     # @param A : list of list of integers
